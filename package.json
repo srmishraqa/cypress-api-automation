@@ -1,0 +1,22 @@
+{
+  "name": "cypress-api-automation",
+  "version": "1.0.0",
+  "description": "This is for cypress API Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srmishraqa/cypress-api-automation.git"
+  },
+  "author": "Soumya Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srmishraqa/cypress-api-automation/issues"
+  },
+  "homepage": "https://github.com/srmishraqa/cypress-api-automation#readme",
+  "devDependencies": {
+    "cypress": "^7.7.0"
+  }
+}
