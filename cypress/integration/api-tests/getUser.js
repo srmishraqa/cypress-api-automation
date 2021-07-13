@@ -1,3 +1,7 @@
+/**
+ * This is a sample to demonstrate GET Calls
+ */
+
 describe("GET calls - user tests", () => {
   let accessToken =
     "d7938d0a9e5dbd50ce0f9b2442ea92bc43554e7a515381480be02ec70ada37b0";
